@@ -3,3 +3,4 @@ console.log(for output in console)
 prompt(for phrases)
 confirm(for true or false or ok and cancel)
 installed the node.js
+document.tittle(we change the titles and styles using this)
