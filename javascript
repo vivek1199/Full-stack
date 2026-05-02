@@ -17,3 +17,5 @@ Data Types:-
     Symbol: Unique value
   Non-Primitive:
     Object: Collection of key-value pairs
+            name:"Vivek",
+            "job code":500
