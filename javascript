@@ -19,4 +19,4 @@ Data Types:-
     Object: Collection of key-value pairs
             name:"Vivek",
             "job code":500
-              (key)      (value) 
+              (key)      (value) .
