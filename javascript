@@ -2,7 +2,7 @@ variables:-
   Variable = container to store value
   Keywords: var, let, const
 
-  Difference:
+  Difference:-
   var → old, function scope
   let → block scope
   const → cannot change value
@@ -15,9 +15,8 @@ Data Types:-
     Undefined: Not assigned
     BigInt: Large numbers
     Symbol: Unique value
-  Non-Primitive:
+  Non-Primitive:-
     Object: Collection of key-value pairs
             name:"Vivek",
             "job code":500
-              (key)      (value) .....
-.....
+              (key)      (value)
